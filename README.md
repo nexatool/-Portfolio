@@ -1,4 +1,4 @@
-# 🚀 NexaStudio — Portfolio
+# 🚀 NexaStudio Portfolio
 
 <div align="center">
 
